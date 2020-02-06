@@ -1,0 +1,1 @@
+{"CanRead":true,"CanWrite":false,"CanSeek":false
